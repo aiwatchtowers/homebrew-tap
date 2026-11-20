@@ -1,6 +1,6 @@
 cask "watchtower" do
-  version "0.28.4"
-  sha256 "c5e99cca420f735aadae71ab15a0738231b23d586db7f51bbcab0c8f17473d30"
+  version "0.29.0"
+  sha256 "fd89aa4252e8b81c60e5bad8acaf3c471ce24f194389552c74e5ee510ab96428"
 
   url "https://github.com/aiwatchtowers/watchtower/releases/download/v#{version}/Watchtower-#{version}-arm64.zip"
   name "Watchtower"
